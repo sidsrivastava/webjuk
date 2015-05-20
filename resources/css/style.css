@@ -1,0 +1,32 @@
+img {
+  padding: 0px 10px 0px 10px;
+}
+
+#breadcrumb-trail {
+  padding: 10px;
+  background: #eeeeee;
+  margin: 10px 0px 10px 0px;
+  border: 1px solid #000000;
+}
+
+#cc-license {
+  float: right;
+  width: 300px;
+  text-align: center;
+  padding: 10px;
+  background: #eeeeee;
+  margin: 0px 100px 0px 100px;
+  border: 1px solid #000000;
+}
+
+#cc-license img {
+  padding: 5px;
+}
+
+.small {
+  font-size: small;
+}
+
+input.stream
+{
+}
